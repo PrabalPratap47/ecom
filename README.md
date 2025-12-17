@@ -9,11 +9,17 @@ The focus of this project is **pixel-conscious layout, clean UI structure, contr
 
 🔗 **Hosted Link:**  
 
-
+https://killangi.netlify.app/
 ---
 
 ## 🖼 Dashboard Preview
 
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/26aee87a-e255-4601-9c42-c0a87e311597" />
+
+<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/ea361b06-e55a-4c67-b396-beb29c928e33" />
+
+Responsive also-:
+<img width="988" height="863" alt="image" src="https://github.com/user-attachments/assets/a0d0545b-14fc-4717-935f-50e0dc48f33a" />
 
 
 ---
